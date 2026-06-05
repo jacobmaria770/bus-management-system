@@ -1,0 +1,38 @@
+# Operating System
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+logs/
+
+# Uploads
+uploads/
+!uploads/.gitkeep
+
+# Database
+*.sql
+backup/
+
+# Dependencies
+node_modules/
+vendor/
+
+# Cache
+*.cache
+.cache/
+
+# Temporary files
+tmp/
+temp/
